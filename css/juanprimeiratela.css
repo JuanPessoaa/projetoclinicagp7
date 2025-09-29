@@ -1,0 +1,225 @@
+
+
+* { 
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-y: hidden;
+}
+
+
+
+
+#menu {
+        background-color: white;
+        width: 100%;
+        height: 8vh;
+
+    
+
+}
+
+#titulo {
+        color: #4361ee;
+        font-size: 1.8rem;
+        font-weight: 700;
+        margin-left: 125px;
+        margin-top: 2vh;
+
+}
+
+#Home {
+        color: #1a1a2e;
+        word-spacing: 30px;
+        margin-top: -3vh;
+        margin-left: 65%;
+        
+}
+
+#Destaque {
+       background-color: #c3cfe2;
+        width: 100%;
+        height: 53vh;
+
+}
+
+#Saibamais {
+        background-color: #4361ee;
+        width: 10%;
+        height: 32px;
+        color: white;
+        border-radius: 30px;
+        margin-left: 130px;
+        text-align: center;
+        padding-top: 2vh;
+        font-size: 110%;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        position: absolute;
+        margin-top: 30vh;
+}
+
+#img {
+        background-color: #c3cfe2;
+        width: 500px;
+        height:px;
+        margin-left: 55%;
+        position: absolute;
+        margin-top: 5vh;
+}
+
+#experiencias_incriveis {
+        font-size: 2.5rem;
+        color: #1a1a2e;
+        position: absolute;
+        margin-top: 100px;
+        margin-left: 130px;
+
+        
+}    
+
+#solucoes {
+        color: #6c757d;
+        font-size: 1.3rem;
+        margin-top: 150px;
+        position: absolute;
+        margin-left: 130px;
+}
+
+#features {
+        background-color: white;
+        width: 100%;
+        height: 60vh;
+
+}
+
+.card1, .card2, .card3, .card4 {
+        background-color: rgb(255, 255, 255);
+        display: inline-block; 
+        width: 22%; 
+        height: 300px;
+        margin: 10px;
+        margin-top: 20vh;
+        vertical-align: top;
+        color: rgb(0, 0, 0); 
+        text-align: center; 
+        line-height: 20px; 
+        box-shadow: black;
+        border-radius: 10px;
+        text-align: center;
+    }
+    .foguete{
+        height: 120px;
+    }
+    .celular{
+        height: 120px;
+    }
+    .cadeado{
+        height: 120px;
+    }
+    .grafico{
+        height: 120px;
+    }
+    .card1 h2, .card2 h2, .card3 h2, .card4 h2 {
+        font-size: 1.3rem; 
+    }
+    .card1 p, .card2 p, .card3 p, .card4 p {
+        color: #6c757d;  }
+
+#diferenciais {
+        position: absolute;
+        margin-left: 40%;
+        margin-top: 10vh;
+}
+
+#final{
+        color: black;
+        background-color: #1a1a2e;
+        height: 320px;
+    }
+    .Sobre-nós{
+        margin-top: 10px ;
+        display: inline-block;
+        padding-left: 110px;
+        margin-top: 5%;
+        color: #6c757d;
+    
+    
+    }
+    .Links-rápidos{
+        text-align: center;
+        padding-bottom: 5x;
+        display: block;
+        margin-top: -50px;
+        text-decoration: none;
+        
+    }
+    .Links-rápidos a {
+        padding-bottom: 5px;
+        display: block;
+        margin-top: 10px;
+        margin-left:600px;
+        text-decoration: none;
+        color: white;
+        text-align: left;
+
+    
+    }
+    .Contato{
+        text-align: right;
+        margin-top: -185px;
+        padding-right: 10%;
+        margin-bottom: 5%;
+        color: #6c757d;
+    
+    }
+    .Links-rápidos h1{
+        margin-left: 5px;
+    }
+    .Contato h1{
+        font-size: 3vh;
+        margin-right: 110px;
+    }
+    .Sobre-nós h1, .Links-rápidos h1, .Contato h1{
+        color: white;
+        border-bottom: #0044ff solid 2px;
+        display: inline-block;
+        font-size: 18px;
+    }
+    
+    .Direitos{
+        padding-top: 50px;
+        margin-right: 100px;
+        margin-left: 100px;
+    }
+    .instagram, .linkedin, .stack, .github{
+        height: 40px;
+        width: 40px;
+        float: right;
+        margin-top: -25px;
+        margin-left: 0px;
+        margin-right: 100px;
+    }
+
+#direitos {
+        color: white;
+        margin-top: 30px;
+
+}
+
+#empresa {
+        margin-top: 10px;
+        color: white;
+}
+
+#contato {
+        color: white;
+        margin-top: 10px;
+        margin-right: 70px;
+}
+
+#num {
+        color: white;
+        margin-top: 10px;
+        margin-right: 100px;
+}
+
